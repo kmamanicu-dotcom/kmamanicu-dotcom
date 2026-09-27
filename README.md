@@ -10,7 +10,7 @@
 ### 📌 About Me
 - 🔭 **Currently working on:** University labs & fundamental algorithms.
 - 🌱 **Currently learning:** Git, GitHub, and Object-Oriented Programming (OOP).
-- ⚡ **Fun Fact:** Big fan of figure skating (Ilia Malinin ⛸️) and and listening to Alt-Rock & Cinematic Hype music (like Des Rocs or The Score) while coding 🎧!
+- ⚡ **Fun Fact:** Big fan of figure skating (Ilia Malinin ⛸️) and listening to Alt-Rock & Cinematic Hype music (like Des Rocs or The Score) while coding 🎧!
 
 ---
 
